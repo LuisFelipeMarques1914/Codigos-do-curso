@@ -1,0 +1,23 @@
+programa
+{
+	
+	funcao inicio ()
+	{
+		escrever ("1 - Abrir Netflix \ n 2- Abrir Amazon Prime \ n 3- Abrir Disney + \ n 4- Fechar")
+		menu inteiro = 0
+		escreva ("Selecione sua opção:")
+		leia (menu)
+		se (menu == 1) {
+		escreva ("Abrindo netflix")
+			}
+			se (menu == 2) {
+			escreva ("Abrindo Amazon Prime")	
+				}
+	se (menu == 3) {
+		escrever ("Abrindo Disney +")
+		}
+		se (menu == 4) {
+			escreva ("Encerrando")
+			}
+	}
+}
