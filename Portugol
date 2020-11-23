@@ -1,0 +1,37 @@
+programa
+{
+	
+	funcao inicio ()
+	{
+		nota1 real, nota2, nota3, nota4, nota5, media, idade
+		cadeia aluno, sala, serie
+
+		escreva ("Digite o nome do aluno:")
+		leia (aluno)
+		escreva ("Digite a idade do aluno:")
+		leia (idade)
+		escreva ("Digite a sala do aluno:")
+		leia (sala)
+		escreva ("Digite a serie do aluno:")
+		leia (serie)
+		escreva ("Digite nota 1:")
+		leia (nota1)
+		escreva ("Digite nota 2:")
+		leia (nota2)
+		escreva ("Digite nota 3:")
+		leia (nota3)
+		escreva ("Digite nota 4:")
+		leia (nota4)
+		escreva ("Digite nota 5:")
+		leia (nota5)
+		mídia = (nota1 + nota2 + nota3 + nota4 + nota5) / 5
+
+		escreva ("O aluno:" + aluno + "Obter uma media de:" + media)
+		se (mídia> = 7) {
+			escreva ("\ n Parabéns você foi aprovado e passou de ano")
+			}
+			senao (media <7) {
+				escreva ("\ n Lamento você foi reprovado")
+				}
+	}
+}
