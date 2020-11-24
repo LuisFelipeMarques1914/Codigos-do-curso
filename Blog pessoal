@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html> 
+<head>
+    <meta charset="utf-8">
+   
+    <title>
+        Luís Felipe Marques</title>
+</head>
+
+<body>
+
+   <header> 
+        
+       <h1> Luís Felipe Marques </h1> 
+   
+   
+     
+   </header>
+   <section>
+      <header>
+          
+          <h2> Blog pessoal</h2>
+          <img src="IMG_6177 (2).jpg" alt="Foto luís felipe">
+        
+      </header> 
+      <article>
+          <header>
+              <h3>Conheça um pouco sobre mim:</h3>
+          </header>
+          <p>
+         <h2> Olá meu nome é Luís Felipe Tenho 17 anos, mas como sempre 
+             gosto de falar, idade não significa imaturidade nem falta de 
+             conhecimento e sabedoria, hoje eu tenho conhecimento em algumas aréas da programação como você pode ver lá no meu perfil do <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-marques-ordones-3995831bb/" target="_blank">Linkedln:</a>
+            Como entrar em contato? Me mande um <a href="mailto:luisfelipemordones@icloud.com">email</a> ou então me <a href="tell: (34)99840-1868">lige</a>
+            <img src="338397_windows-8-os-wallpapers-imgmob_1024x576_h.webp" alt="Foto do post abaixo">
+        </h2>
+        
+          </p>
+      </article>
+   </section>
+   <footer>
+       <ul>
+           <h2><li>
+              <a href="mailto:luisfelipemordones@icloud.com" target="_blank">luisfelipemordones@icloud.com</a>   </li>
+              <li>
+                  <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-marques-ordones-3995831bb/" target="_blank">linkedin</a>
+              </li>
+                 <li>
+                  <a href="https://github.com/LuisFelipeMarques1914" target="_blank">Github</a>
+              </li>
+              <li> 
+                  <a href="https://www.instagram.com/luisfelipe_caixeta/?hl=pt-br" target="_blank">Instagram</a>
+              </li>
+            </h2>
+            
+       </ul>
+   </footer>
+</body>
+
+</html>
